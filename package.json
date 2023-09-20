@@ -7,7 +7,7 @@
     
     },
     "scripts": {
-      "testing": "jest"
+      "test": "jest"
     }
   
 }
